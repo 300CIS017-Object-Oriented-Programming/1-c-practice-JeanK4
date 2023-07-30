@@ -1,9 +1,9 @@
-Actividad 1
+/*Actividad 1
 Jean Karlo Buitrago Orozco
 Código: 8972318
-Programación Orientada a Objetos
+Programación Orientada a Objetos*/
 
-Ejercicio 1
+//Ejercicio 1
 
 #include <cmath>
 #include <cstdio>
@@ -20,7 +20,7 @@ int main() {
     return 0;
 }
 
-Ejercicio 2
+//Ejercicio 2
 
 #include <bits/stdc++.h>
 
@@ -52,7 +52,7 @@ int main(){
     return 0;    
 }
 
-Ejercicio 3
+//Ejercicio 3
 
 #include <iostream>
 #include <cstdio>
@@ -91,7 +91,7 @@ int main() {
     return 0;
 }
 
-Ejercicio 4
+//Ejercicio 4
 
 #include <iostream>
 #include <cstdio>
@@ -116,7 +116,7 @@ int main() {
     return 0;
 }
 
-Ejercicio 5
+//Ejercicio 5
 
 #include <cmath>
 #include <cstdio>
@@ -144,7 +144,7 @@ int main() {
     return 0;
 }
 
-Ejercicio 6
+//Ejercicio 6
 
 #include <iostream>
 #include <string>
@@ -164,7 +164,7 @@ int main(){
     return 0;
 }
 
-Ejercicio 7
+//Ejercicio 7
 
 #include <iostream>
 #include <sstream>
